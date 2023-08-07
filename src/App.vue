@@ -22,9 +22,6 @@ import Aside from './components/Aside.vue'
   display: grid;
   grid-template-columns: 18% 82%;
   height: 100vh;
-  // background: linear-gradient(180deg, rgba(244, 242, 242, 1) 0%, rgba(32, 33, 36, 1) 50%, rgba(32, 33, 36, 1) 100%);
-  // background: rgb(244, 242, 242);
-  // background-color: $mainBg;
   background-color: rgba(32, 33, 36, 1);
 }
 </style>
