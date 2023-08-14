@@ -88,7 +88,6 @@ const Top40 = ref([
     display: flex;
     justify-content: space-around;
     gap: 10px;
-    // grid-template-columns: minmax(repeat(4, 320px));
     padding: 10px;
 
     &_title {
